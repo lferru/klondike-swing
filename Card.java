@@ -1,9 +1,11 @@
 /*
- ** Luis Ferrufino
- ** legendary-cards
- ** 6/17/19
+* Luis Ferrufino
+* klondike-swing
+* 6/17/19
  */
- 
+
+import java.util.*;
+
 public class Card {
 
   private String suite; //can be "Hearts, "Diamonds", "Spades", or "Clubs"
